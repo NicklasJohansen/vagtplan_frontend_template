@@ -1,15 +1,16 @@
-# vagtplan_frontend_template
+## 🚀 To Start the Project
 
-To start project:
+From the terminal, follow these steps:
 
-1)
-Change directory to /frontend via terminal:
+1. **Change directory to the frontend folder**
+```bash
 cd frontend
+```
 
-2)
-From /frontend to run this command:
+
+2. **When inside the frontend folder run this command**
+```bash
 npm run dev
-
-3) 
-When the project is up and running acess the localhost url that appears in the terminal via a browser (google chrome recommended)
+```
+ 
 
